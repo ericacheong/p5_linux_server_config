@@ -1,5 +1,9 @@
 # P5: Linux Server Configuration
 
+Project 5 for Udacity Full Stack Web Developer Nanodegree. 
+
+This project includes baseline installation of a Linux distribution on a virtual machine and prepare it to host web applications, to include installing updates, securing it from a number of attack vectors and installing/configuring web and database servers.
+
 ## VM details
 * IP address: 54.149.140.195
 * SSH port: 2200
